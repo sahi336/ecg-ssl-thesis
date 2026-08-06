@@ -60,6 +60,4 @@ seeds. The missing-lead stress test uses a single fixed seed with its own fitted
 temperature. Expected Calibration Error is computed per class and averaged, as the
 task is multi-label.
 
-## Notes
 
-Notebook 06 was run on CPU rather than GPU owing to quota limits on the free tier.
